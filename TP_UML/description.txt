@@ -1,0 +1,40 @@
+- S'inscrire (en tant que conducteur ou non): 
+        Accéder au lien de l'application web et créer son compte
+
+- Se connecter :
+        Avoir la possibilité d'explorer toutes les fonctionnalités de l'application web et rendre sa session active
+
+        Donne la clé d'authentification permettant à l'utilisateur d'exécuter toutes les requêtes possibles dans l'application web
+
+- Activer la géolocalisation:
+        Accepter que l'application web utilise la position exacte de l'utilisateur
+
+        Va permettre de suivre les trajets définis
+
+- Définir un trajet
+        Va utiliser un map (si l& géolocalisation est activée) pour récupérer et rendre public le trajet qu'effectueras l'utilisateur (conducteurs/passagers)
+
+- Retrouver les passagers voulant effectuer presque un même trajet que soi:
+        Ici il s'agit d'un bouton qui va permettre au conducteur de retrouver les passagers ayant définis presque le même trajet que lui ou dont le trajet est inclus que le sien
+
+- Retrouver un conducteur voulant effectuer presque un même trajet que soi:
+        Ici il s'agit d'un bouton qui va permettre au passager de retrouver un conducteur non saturé ayant défini presque le même trajet que lui ou dont le trajet contient celui qu'il a défini
+
+- Marquer la recherche comme terminée:
+        > Conducteur:
+            Ceci atteste que le véhicule dudit conducteur a déjà atteint le nombre maximal de passager devant faire le même trajet que lui 
+
+        > Passager:
+            Ceci montre que le passager a déjà trouvé un véhicule (conducteur) qui veut éffectuer le même trajet que lui
+
+- Modifier son compte:
+        Possibilité de modifier les informations de son compte
+
+        Possibilité de transformer un compte "conducteur" en un compte passager et vice-versa
+
+- Supprimer son compte:
+        Ici il s'agit de la possibilité offerte à l'utilisateur de désister de la plateforme
+
+- Se déconnecter:
+        Ferme la session de l'utilisateur et rend "expirée" sa clé d'authentification. Ce qui lui rend impossible la navigation et il est obligé de se connecter à nouveau pour reprendre le contrôle de son compte
+    
