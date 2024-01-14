@@ -1,3 +1,5 @@
+Ce cas d'utilisation commence lorsque l'utilisateur s'inscrit au système d'enregistrement et se connecte avec ses identifiants. Le système vérifie que la conformité des identifiants et invite l'utilisateur à effectuer toutes les actions possibles sur la plateforme. Le système facilite la liaison entre les conducteurs et passagers. Les activités autorisées après inscription et connexion sont : ACTIVER, DÉFINIR, RETROUVER, MARQUER, MODIFIER, QUITTER et SUPPRIMER
+
 - S'inscrire (en tant que conducteur ou non): 
         Accéder au lien de l'application web et créer son compte
 
